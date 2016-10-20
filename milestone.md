@@ -1,6 +1,7 @@
 # PneumaShoe, Christine Diaz and Tahir Malik
 
 ## Milestones
+
 Done by 10/28
 - Talk to Dr. Kortum about current prototype and interface designs
 - Talk to Dr. Oden about IP and publishing to github
@@ -13,7 +14,7 @@ Done by 10/10
 - Add warning lights
 - Make smaller box
 
-Continuously iterate the code
+# Continuously iterate the code
 Done by 10/28
 - Be able to switch on/off in any stage
 - Output data readings to a file
