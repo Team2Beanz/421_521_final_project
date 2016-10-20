@@ -11,7 +11,7 @@ Done by 10/28
 Done by 10/31
 - Mill PCB through 33each.com
 
-Done by 10/10
+Done by 11/10
 - Add indicator display to tell you pressure of air tank and foot cuff
 - Add warning lights
 - Make smaller box
@@ -22,10 +22,10 @@ Done by 10/28
 - Be able to switch on/off in any stage
 - Output data readings to a file
 
-Done by 10/10
+Done by 11/10
 - Make pressure driven
 
-Done by 10/17
+Done by 11/17
 - Calibration module
 
 
