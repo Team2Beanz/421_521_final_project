@@ -17,16 +17,19 @@ Done by 10/10
 - Make smaller box
 
 ### Continuously iterate the code
+
 Done by 10/28
 - Be able to switch on/off in any stage
 - Output data readings to a file
+
 Done by 10/10
 - Make pressure driven
+
 Done by 10/17
 - Calibration module
 
 
-Deadlines
+### Deadlines
 - Abstract due Noc 3rd
 - Prototype due Nov 10th
 - Fit and Finish Nov 17th
