@@ -1,4 +1,5 @@
-# PneumaShoe, Christine Diaz and Tahir Malik
+# PneumaShoe
+Christine Diaz and Tahir Malik
 
 ## Milestones
 
